@@ -1,0 +1,5 @@
+4.yêu cầu đầu ra
+*Data:37 đô C
+*Iformation: được đo vào lúc 10:00 10/6/2026 giờ sáng tại vườn lan
+*Kownledge:với nhiệt độ này sẽ ảnh hưởng đến phát triển của vườn lan-->cài đặt chế độ tự bơm nước để giảm nhiệt độ
+*wisdom:tham khảo dự báo thời tiết thời gian tới
